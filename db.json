@@ -1,0 +1,42 @@
+{
+  "teams": [
+    {
+      "id": "1",
+      "team": "ENS",
+      "department": "Solutions",
+      "teamLead": "Nati Asefa",
+      "teamMember": 25,
+      "teamPhoto": "https://images.pexels.com/photos/922978/pexels-photo-922978.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "2",
+      "team": "MDCC",
+      "department": "Solutions",
+      "teamLead": "Muse Haile",
+      "teamMember": 25,
+      "teamPhoto": "https://media.istockphoto.com/photos/african-man-collecting-coffee-cherries-east-africa-picture-id638817830?b=1&k=20&m=638817830&s=612x612&w=0&h=Lq1aKKuYUFii2NbaNcElDjLsw-yo0teova4B72zHn58="
+    },
+    {
+      "id": "3",
+      "team": "SaaS",
+      "department": "Solutions",
+      "teamLead": "Dawit Fikru",
+      "teamMember": 25,
+      "teamPhoto": "https://media.istockphoto.com/photos/panorama-of-semien-mountains-and-valley-around-lalibela-ethiopia-picture-id672077498?b=1&k=20&m=672077498&s=612x612&w=0&h=bAF1MWRUgI4EzNGSy0yIDJpY8__Mqyrw4hnSJwJv_l0="
+    },
+    {
+      "id": "4",
+      "team": "BAI",
+      "department": "Solutions",
+      "teamLead": "Mintesnot Tsegaye",
+      "teamMember": 25,
+      "teamPhoto": "https://media.istockphoto.com/photos/addis-ababa-skyline-picture-id1304067246?b=1&k=20&m=1304067246&s=612x612&w=0&h=E6XG3sZG-sdWt1oghIGEX8TGqztvWF5Tj9MY8-qGvVU="
+    }
+  ],
+"users":[
+  {
+	"id":"1",
+	"name": "Mulualem"
+}
+]
+}
